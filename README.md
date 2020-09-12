@@ -1,6 +1,6 @@
 # Refactor-Code
 
-I refactored the code for the Horiseon website. I replaced the generic division tags in index.html with semantic tags for better and more understanable code. I also added "alt" tags for the image files to adhere to ADA conformance. Lastly, I adjusted the header tags to reflect a decending order.
+I refactored the code for the Horiseon website. I replaced the generic division tags in index.html with semantic tags for better and more understandable code. I also added "alt" tags for the image files to adhere to ADA conformance. Lastly, I adjusted the header tags to reflect a decending order.
 
 ## Built With
 
