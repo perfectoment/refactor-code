@@ -15,8 +15,9 @@ I refactored the code for the Horiseon website. I replaced the generic division 
 
 * **Ryan Nemec** 
 
-- [https://github.com/perfectoment](https://github.com/)
-- [https://www.linkedin.com/in/ryan-nemec-5a6b3a66/](https://www.linkedin.com/)
+- [Link to Github](https://github.com/perfectoment)
+- [Link to LinkedIn](https://https://www.linkedin.com/in/ryan-nemec-5a6b3a66/)
+
 
 ## License
 
